@@ -1,0 +1,6 @@
+{
+  "name": "Alderwood Student Registry",
+  "description": "Academic student information system for managing student records, course enrollments, grades, and daily attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

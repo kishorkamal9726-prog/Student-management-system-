@@ -1,0 +1,663 @@
+{
+  "students": [
+    {
+      "id": "STU-2026-001",
+      "fullName": "Maya Deshmukh",
+      "email": "m.deshmukh@alderwood.edu",
+      "phone": "(415) 555-0142",
+      "dateOfBirth": "2005-04-18",
+      "program": "Computer Science",
+      "year": "Junior",
+      "status": "Active",
+      "advisor": "Dr. Alan Vance",
+      "guardianName": "Priya Deshmukh",
+      "guardianPhone": "(415) 555-0199",
+      "enrolledDate": "2024-08-26",
+      "avatarUrl": "/src/assets/images/avatar_student_maya_1795598973473.jpg",
+      "notes": "Dean’s Honors List for 3 consecutive terms. Undergraduate research fellow in distributed systems."
+    },
+    {
+      "id": "STU-2026-002",
+      "fullName": "Liam Chen",
+      "email": "l.chen@alderwood.edu",
+      "phone": "(415) 555-0184",
+      "dateOfBirth": "2006-09-02",
+      "program": "Mechanical Engineering",
+      "year": "Sophomore",
+      "status": "Active",
+      "advisor": "Prof. Marcus Holt",
+      "guardianName": "David Chen",
+      "guardianPhone": "(415) 555-0171",
+      "enrolledDate": "2025-08-25",
+      "avatarUrl": "/src/assets/images/avatar_student_liam_1795598973012.jpg",
+      "notes": "Robotics lab lead. Requires structural CAD workshop access."
+    },
+    {
+      "id": "STU-2026-003",
+      "fullName": "Elena Vance-Okafor",
+      "email": "e.okafor@alderwood.edu",
+      "phone": "(510) 555-0126",
+      "dateOfBirth": "2004-11-11",
+      "program": "Architecture",
+      "year": "Senior",
+      "status": "Active",
+      "advisor": "Prof. Clara Solis",
+      "guardianName": "Samuel Okafor",
+      "guardianPhone": "(510) 555-0163",
+      "enrolledDate": "2023-08-28",
+      "avatarUrl": "/src/assets/images/avatar_student_elena_1795598973966.jpg",
+      "notes": "Senior thesis studio in sustainable timber structures."
+    },
+    {
+      "id": "STU-2026-004",
+      "fullName": "Noah Lindqvist",
+      "email": "n.lindqvist@alderwood.edu",
+      "phone": "(650) 555-0118",
+      "dateOfBirth": "2006-02-23",
+      "program": "Applied Mathematics",
+      "year": "Sophomore",
+      "status": "Probation",
+      "advisor": "Dr. Hannah Cho",
+      "guardianName": "Erik Lindqvist",
+      "guardianPhone": "(650) 555-0102",
+      "enrolledDate": "2025-08-25",
+      "avatarUrl": "",
+      "notes": "Scheduled for bi-weekly academic coaching check-ins during Fall 2026."
+    },
+    {
+      "id": "STU-2026-005",
+      "fullName": "Sofia Alvarez",
+      "email": "s.alvarez@alderwood.edu",
+      "phone": "(408) 555-0155",
+      "dateOfBirth": "2007-06-14",
+      "program": "Economics",
+      "year": "Freshman",
+      "status": "Active",
+      "advisor": "Dr. Gregory Patel",
+      "guardianName": "Carmen Alvarez",
+      "guardianPhone": "(408) 555-0130",
+      "enrolledDate": "2026-08-24",
+      "avatarUrl": "",
+      "notes": "First-year quantitative economics cohort."
+    },
+    {
+      "id": "STU-2026-006",
+      "fullName": "Caleb Mercer",
+      "email": "c.mercer@alderwood.edu",
+      "phone": "(415) 555-0169",
+      "dateOfBirth": "2005-01-29",
+      "program": "Computer Science",
+      "year": "Junior",
+      "status": "Probation",
+      "advisor": "Dr. Alan Vance",
+      "guardianName": "Rebecca Mercer",
+      "guardianPhone": "(415) 555-0188",
+      "enrolledDate": "2024-08-26",
+      "avatarUrl": "",
+      "notes": "Missed three morning lab sessions in October; advisor outreach completed."
+    },
+    {
+      "id": "STU-2026-007",
+      "fullName": "Amara Nwosu",
+      "email": "a.nwosu@alderwood.edu",
+      "phone": "(510) 555-0194",
+      "dateOfBirth": "2004-08-05",
+      "program": "Molecular Biology",
+      "year": "Senior",
+      "status": "Active",
+      "advisor": "Dr. Miriam Klein",
+      "guardianName": "Chidi Nwosu",
+      "guardianPhone": "(510) 555-0115",
+      "enrolledDate": "2023-08-28",
+      "avatarUrl": "",
+      "notes": "Completing honors wet-lab capstone in CRISPR delivery vectors."
+    },
+    {
+      "id": "STU-2026-008",
+      "fullName": "Ethan Gallagher",
+      "email": "e.gallagher@alderwood.edu",
+      "phone": "(415) 555-0137",
+      "dateOfBirth": "2005-12-03",
+      "program": "Economics",
+      "year": "Junior",
+      "status": "Leave",
+      "advisor": "Dr. Gregory Patel",
+      "guardianName": "Thomas Gallagher",
+      "guardianPhone": "(415) 555-0176",
+      "enrolledDate": "2024-08-26",
+      "avatarUrl": "",
+      "notes": "Approved fall semester internship leave of absence; returning Spring 2027."
+    },
+    {
+      "id": "STU-2026-009",
+      "fullName": "Hana Takahashi",
+      "email": "h.takahashi@alderwood.edu",
+      "phone": "(650) 555-0148",
+      "dateOfBirth": "2007-03-19",
+      "program": "Computer Science",
+      "year": "Freshman",
+      "status": "Active",
+      "advisor": "Dr. Alan Vance",
+      "guardianName": "Kenji Takahashi",
+      "guardianPhone": "(650) 555-0191",
+      "enrolledDate": "2026-08-24",
+      "avatarUrl": "",
+      "notes": "Placed out of introductory programming; enrolled in Data Structures."
+    },
+    {
+      "id": "STU-2026-010",
+      "fullName": "Owen Kowalski",
+      "email": "o.kowalski@alderwood.edu",
+      "phone": "(408) 555-0174",
+      "dateOfBirth": "2003-10-12",
+      "program": "Mechanical Engineering",
+      "year": "Senior",
+      "status": "Graduated",
+      "advisor": "Prof. Marcus Holt",
+      "guardianName": "Anna Kowalski",
+      "guardianPhone": "(408) 555-0122",
+      "enrolledDate": "2022-08-29",
+      "avatarUrl": "",
+      "notes": "Completed degree requirements with distinction."
+    }
+  ],
+  "courses": [
+    {
+      "id": "CRS-CS204",
+      "code": "CS-204",
+      "title": "Data Structures & Algorithms",
+      "department": "Computer Science",
+      "instructor": "Dr. Alan Vance",
+      "credits": 4,
+      "schedule": "Mon/Wed 10:00 AM · Turing Hall 210",
+      "capacity": 36,
+      "term": "Fall 2026"
+    },
+    {
+      "id": "CRS-MATH210",
+      "code": "MATH-210",
+      "title": "Linear Algebra & Differential Systems",
+      "department": "Applied Mathematics",
+      "instructor": "Dr. Hannah Cho",
+      "credits": 4,
+      "schedule": "Tue/Thu 09:30 AM · Euler Annex 104",
+      "capacity": 30,
+      "term": "Fall 2026"
+    },
+    {
+      "id": "CRS-ME302",
+      "code": "ME-302",
+      "title": "Thermodynamics & Fluid Mechanics",
+      "department": "Mechanical Engineering",
+      "instructor": "Prof. Marcus Holt",
+      "credits": 4,
+      "schedule": "Mon/Wed 01:30 PM · Foundry Lab 12",
+      "capacity": 28,
+      "term": "Fall 2026"
+    },
+    {
+      "id": "CRS-ARC401",
+      "code": "ARC-401",
+      "title": "Sustainable Timber Studio",
+      "department": "Architecture",
+      "instructor": "Prof. Clara Solis",
+      "credits": 5,
+      "schedule": "Tue/Thu 01:00 PM · North Studio B",
+      "capacity": 20,
+      "term": "Fall 2026"
+    },
+    {
+      "id": "CRS-ECON115",
+      "code": "ECON-115",
+      "title": "Quantitative Macroeconomics",
+      "department": "Economics",
+      "instructor": "Dr. Gregory Patel",
+      "credits": 3,
+      "schedule": "Fri 10:00 AM · Keynes Forum 302",
+      "capacity": 42,
+      "term": "Fall 2026"
+    },
+    {
+      "id": "CRS-BIO330",
+      "code": "BIO-330",
+      "title": "Molecular Genetics & Lab",
+      "department": "Molecular Biology",
+      "instructor": "Dr. Miriam Klein",
+      "credits": 4,
+      "schedule": "Tue/Thu 11:00 AM · Mendel Pavilion 4",
+      "capacity": 24,
+      "term": "Fall 2026"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "ENR-001",
+      "studentId": "STU-2026-001",
+      "courseId": "CRS-CS204",
+      "assignmentsScore": 96,
+      "midtermScore": 94,
+      "finalScore": 95,
+      "totalScore": 95,
+      "letterGrade": "A",
+      "gradePoints": 4,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-002",
+      "studentId": "STU-2026-001",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 92,
+      "midtermScore": 91,
+      "finalScore": 94,
+      "totalScore": 92.4,
+      "letterGrade": "A-",
+      "gradePoints": 3.7,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-003",
+      "studentId": "STU-2026-001",
+      "courseId": "CRS-ECON115",
+      "assignmentsScore": 95,
+      "midtermScore": 90,
+      "finalScore": 92,
+      "totalScore": 92.2,
+      "letterGrade": "A-",
+      "gradePoints": 3.7,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-004",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-ME302",
+      "assignmentsScore": 88,
+      "midtermScore": 86,
+      "finalScore": 89,
+      "totalScore": 87.7,
+      "letterGrade": "B+",
+      "gradePoints": 3.3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-005",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 84,
+      "midtermScore": 82,
+      "finalScore": 85,
+      "totalScore": 83.7,
+      "letterGrade": "B",
+      "gradePoints": 3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-006",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-CS204",
+      "assignmentsScore": 87,
+      "midtermScore": 85,
+      "finalScore": 88,
+      "totalScore": 86.7,
+      "letterGrade": "B",
+      "gradePoints": 3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-007",
+      "studentId": "STU-2026-003",
+      "courseId": "CRS-ARC401",
+      "assignmentsScore": 94,
+      "midtermScore": 92,
+      "finalScore": 95,
+      "totalScore": 93.7,
+      "letterGrade": "A",
+      "gradePoints": 4,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-008",
+      "studentId": "STU-2026-003",
+      "courseId": "CRS-ECON115",
+      "assignmentsScore": 89,
+      "midtermScore": 88,
+      "finalScore": 90,
+      "totalScore": 89,
+      "letterGrade": "B+",
+      "gradePoints": 3.3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-009",
+      "studentId": "STU-2026-004",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 68,
+      "midtermScore": 64,
+      "finalScore": 67,
+      "totalScore": 66.3,
+      "letterGrade": "D",
+      "gradePoints": 1,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-010",
+      "studentId": "STU-2026-004",
+      "courseId": "CRS-CS204",
+      "assignmentsScore": 72,
+      "midtermScore": 66,
+      "finalScore": 69,
+      "totalScore": 68.9,
+      "letterGrade": "D",
+      "gradePoints": 1,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-011",
+      "studentId": "STU-2026-005",
+      "courseId": "CRS-ECON115",
+      "assignmentsScore": 91,
+      "midtermScore": 89,
+      "finalScore": 93,
+      "totalScore": 91,
+      "letterGrade": "A-",
+      "gradePoints": 3.7,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-012",
+      "studentId": "STU-2026-005",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 86,
+      "midtermScore": 84,
+      "finalScore": 88,
+      "totalScore": 86,
+      "letterGrade": "B",
+      "gradePoints": 3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-013",
+      "studentId": "STU-2026-006",
+      "courseId": "CRS-CS204",
+      "assignmentsScore": 70,
+      "midtermScore": 62,
+      "finalScore": 65,
+      "totalScore": 65.5,
+      "letterGrade": "D",
+      "gradePoints": 1,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-014",
+      "studentId": "STU-2026-006",
+      "courseId": "CRS-ECON115",
+      "assignmentsScore": 74,
+      "midtermScore": 70,
+      "finalScore": 71,
+      "totalScore": 71.6,
+      "letterGrade": "C-",
+      "gradePoints": 1.7,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-015",
+      "studentId": "STU-2026-007",
+      "courseId": "CRS-BIO330",
+      "assignmentsScore": 95,
+      "midtermScore": 93,
+      "finalScore": 96,
+      "totalScore": 94.7,
+      "letterGrade": "A",
+      "gradePoints": 4,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-016",
+      "studentId": "STU-2026-007",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 90,
+      "midtermScore": 88,
+      "finalScore": 91,
+      "totalScore": 89.7,
+      "letterGrade": "B+",
+      "gradePoints": 3.3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-017",
+      "studentId": "STU-2026-009",
+      "courseId": "CRS-CS204",
+      "assignmentsScore": 91,
+      "midtermScore": 89,
+      "finalScore": 92,
+      "totalScore": 90.7,
+      "letterGrade": "A-",
+      "gradePoints": 3.7,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-018",
+      "studentId": "STU-2026-009",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 88,
+      "midtermScore": 86,
+      "finalScore": 90,
+      "totalScore": 88,
+      "letterGrade": "B+",
+      "gradePoints": 3.3,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-019",
+      "studentId": "STU-2026-010",
+      "courseId": "CRS-ME302",
+      "assignmentsScore": 93,
+      "midtermScore": 94,
+      "finalScore": 95,
+      "totalScore": 94.1,
+      "letterGrade": "A",
+      "gradePoints": 4,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    },
+    {
+      "id": "ENR-020",
+      "studentId": "STU-2026-010",
+      "courseId": "CRS-MATH210",
+      "assignmentsScore": 91,
+      "midtermScore": 90,
+      "finalScore": 92,
+      "totalScore": 91,
+      "letterGrade": "A-",
+      "gradePoints": 3.7,
+      "updatedAt": "2026-11-20T15:30:00Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "ATT-001",
+      "studentId": "STU-2026-001",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-002",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-003",
+      "studentId": "STU-2026-004",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-24",
+      "status": "Late",
+      "note": "Arrived 12 minutes late"
+    },
+    {
+      "id": "ATT-004",
+      "studentId": "STU-2026-006",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-24",
+      "status": "Absent",
+      "note": "Unexcused absence"
+    },
+    {
+      "id": "ATT-005",
+      "studentId": "STU-2026-009",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-006",
+      "studentId": "STU-2026-001",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-20",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-007",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-20",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-008",
+      "studentId": "STU-2026-004",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-20",
+      "status": "Absent",
+      "note": "Advisor notified"
+    },
+    {
+      "id": "ATT-009",
+      "studentId": "STU-2026-006",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-20",
+      "status": "Absent",
+      "note": "Missed lab section"
+    },
+    {
+      "id": "ATT-010",
+      "studentId": "STU-2026-009",
+      "courseId": "CRS-CS204",
+      "date": "2026-11-20",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-011",
+      "studentId": "STU-2026-001",
+      "courseId": "CRS-MATH210",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-012",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-MATH210",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-013",
+      "studentId": "STU-2026-004",
+      "courseId": "CRS-MATH210",
+      "date": "2026-11-24",
+      "status": "Absent",
+      "note": ""
+    },
+    {
+      "id": "ATT-014",
+      "studentId": "STU-2026-005",
+      "courseId": "CRS-MATH210",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-015",
+      "studentId": "STU-2026-007",
+      "courseId": "CRS-MATH210",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-016",
+      "studentId": "STU-2026-009",
+      "courseId": "CRS-MATH210",
+      "date": "2026-11-24",
+      "status": "Excused",
+      "note": "Campus robotics symposium"
+    },
+    {
+      "id": "ATT-017",
+      "studentId": "STU-2026-003",
+      "courseId": "CRS-ARC401",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-018",
+      "studentId": "STU-2026-007",
+      "courseId": "CRS-BIO330",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-019",
+      "studentId": "STU-2026-002",
+      "courseId": "CRS-ME302",
+      "date": "2026-11-24",
+      "status": "Present",
+      "note": ""
+    },
+    {
+      "id": "ATT-020",
+      "studentId": "STU-2026-006",
+      "courseId": "CRS-ECON115",
+      "date": "2026-11-22",
+      "status": "Late",
+      "note": ""
+    }
+  ],
+  "activities": [
+    {
+      "id": "ACT-1",
+      "timestamp": "2026-11-24T16:15:00Z",
+      "type": "attendance",
+      "summary": "Recorded CS-204 roll call for Nov 24 (3 Present, 1 Late, 1 Absent)."
+    },
+    {
+      "id": "ACT-2",
+      "timestamp": "2026-11-23T14:40:00Z",
+      "type": "grade",
+      "summary": "Updated final exam scores for BIO-330 Molecular Genetics."
+    },
+    {
+      "id": "ACT-3",
+      "timestamp": "2026-11-21T11:05:00Z",
+      "type": "student",
+      "summary": "Placed Caleb Mercer on Academic Probation following advisor review."
+    },
+    {
+      "id": "ACT-4",
+      "timestamp": "2026-11-19T09:20:00Z",
+      "type": "enrollment",
+      "summary": "Enrolled Hana Takahashi in CS-204 Data Structures & Algorithms."
+    }
+  ],
+  "nextStudentSeq": 11
+}
